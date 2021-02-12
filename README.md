@@ -1,6 +1,6 @@
 # About me
 Hi there! 👋  
-I'm Matías, PhD, Electronic Engineer, educator and tech developer enthusiast, from Bahía Blanca, Argentina.  
+I'm Matías, PhD, Electronic Engineer, educator and tech development enthusiast, from Bahía Blanca, Argentina.  
 &nbsp;
 
 # Skills
@@ -55,7 +55,7 @@ Here is a list of the technologies I've been using recently for web and mobile d
 
 ### Software and tools
 <p align="">
-  <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png">
+  <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
   <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png">
   <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/octave_94226.png">
   <img width="8.5%" height= "50%" src="https://waikato.github.io/weka-site/images/weka.png">
@@ -67,7 +67,7 @@ Here is a list of the technologies I've been using recently for web and mobile d
 
 ### Python libraries
 <p align="">
-  <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
+  <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png">
   <img width="8.5%" height= "50%" src="https://numfocus.org/wp-content/uploads/2016/07/Matplotlib_Logo_191209.png">
   <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png">
   <img width="8.5%" height= "50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
