@@ -87,8 +87,6 @@ Here is a list of the technologies I've been using recently for web and mobile d
 
 # Contact
 
-### Visit my social networks profiles or contact me!
-
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
