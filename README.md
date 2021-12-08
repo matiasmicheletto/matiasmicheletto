@@ -7,6 +7,7 @@ I'm Matías, PhD Electronic Engineer, working on tech research and development.
 # Contact
 
 [![alt text][1.1]][1]
+[![alt text][8.1]][8]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
@@ -41,4 +42,9 @@ I'm Matías, PhD Electronic Engineer, working on tech research and development.
 [7.1]: https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png
 
 [7]: mailto:matias.micheletto@uns.edu.ar
+
+[8.1]: https://cdn.icon-icons.com/icons2/1211/PNG/48/1491579583-yumminkysocialmedia02_83111.png
+
+[8]: https://twitter.com/yomatiasmiche
+     
 
