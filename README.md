@@ -1,6 +1,6 @@
 # About me
 Hi there! 👋  
-I'm Matías, PhD Electronic Engineer, working on tech research and development.  
+I'm Matías, Ph.D. Electronic Engineer, working on tech research and development.  
 &nbsp;
 
 
@@ -47,4 +47,6 @@ I'm Matías, PhD Electronic Engineer, working on tech research and development.
 
 [8]: https://twitter.com/yomatiasmiche
      
+     
+![](https://komarev.com/ghpvc/?username=matiasmicheletto&color=grey)
 
