@@ -3,6 +3,29 @@ Hi there! 👋
 I'm Matías, Ph.D. Electronic Engineer, working on tech research and development.  
 &nbsp;
 
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=matiasmicheletto&show_icons=true&theme=dark" style="border:1px solid #FFF; border-radius:5px;" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmicheletto&theme=dark" style="border:1px solid #FFF; border-radius:5px;" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmicheletto&layout=compact&theme=dark" style="border:1px solid #FFF; border-radius:5px;" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matiasmicheletto&theme=dark" style="border:1px solid #FFF; border-radius:5px;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matiasmicheletto&theme=dark" style="border:1px solid #FFF; border-radius:5px;" />
+    </td>
+  </tr>
+</table>
 
 # Contact
 
@@ -53,4 +76,3 @@ I'm Matías, Ph.D. Electronic Engineer, working on tech research and development
 [9]: https://www.udemy.com/user/matias-727/
      
 ![](https://komarev.com/ghpvc/?username=matiasmicheletto&color=grey)
-
