@@ -1,8 +1,10 @@
-# About me
-Hi there! 👋  
-I'm Matías, Ph.D. Electronic Engineer, working on tech research and development.  
-&nbsp;
+Welcome to my GitHub, a place where I put things so future me can discover what past me was thinking.
 
+Most of these PhD-level overengineering, production-level underdocumented projects are abandoned, a few of them are finished and the rest it waiting for me to remember why I started them.
+
+Feel free to clone, build, and run anything you find here. Results may vary. Sanity may not. If it works, congratulations. If it doesn't, please consider submitting a pull request. Future me makes no guarantees beyond “it worked on my machine.”
+
+&nbsp;
 <table width="100%">
   <tr>
     <td align="center" width="50%">
